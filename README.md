@@ -38,6 +38,8 @@ Membuat sistem kasir self-service sehingga customer dapat melakukan input belanj
 - Jika pengguna memilih 5 (Periksa Daftar Belanja), maka semua daftar belanjaan yang sudah masuk akan ditampilkan, sehingga pengguna bisa memeriksa apakah belanjaan sudah sesuai atau belum dan menampilkan total harga. Fungsi yang digunakan untuk memanggil daftar belanja adalah trnsct_123.check_order() dan trnsct_123.calculate_total_price()..
 - Jika pengguna memilih 6 (Selesai), maka program akan keluar dari loop menggunakan break dan program selesai. 
 
+![flowchart](https://github.com/annpam/super-cashier/assets/124033328/7cbd7700-f770-4f61-8a4c-ce280721729e)
+
 ## Penjelasan Fungsi 
 Penjelasan dari tiap fungsi dalam file method.py
 
