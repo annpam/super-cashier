@@ -49,7 +49,7 @@ def main():
                 if trnsct_123.delete_item(name): # memanggil fungsi delete_item
                     print(f"Barang {name} berhasil dihapus.")
             except ValueError:
-                print("Item not found!")
+                print("Barang tidak ditemukan.")
 
         elif choice == '4':
             trnsct_123.reset_transaction() # memanggil fungsi delete_item
